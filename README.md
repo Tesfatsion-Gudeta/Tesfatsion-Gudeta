@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 - 💻 Currently focusing on **MERN stack** with a **backend-heavy** approach.
-- 🌱 Learning & exploring **Node.js, React, Tailwind CSS, Git, Java, Express, MongoDB**, and more.
+- 🌱 Learning & exploring **Node.js, React, Tailwind CSS, Express, MongoDB**, and more.
 - 🎯 Always striving for **clean code and scalable solutions**.
 
 ### ⚡ Tech Stack
