@@ -3,7 +3,7 @@
 <h1 align="center">Hi there, I'm Tesfatsion Gudeta 👋</h1>
 
 <p align="center">
-  <em>Backend-heavy MERN stack developer | Passionate about distributed systems</em>
+  <em>Backend-heavy MERN stack developer , learning and doing things</em>
 </p>
 
 ---
@@ -11,7 +11,6 @@
 ### 🚀 About Me
 - 💻 Currently focusing on **MERN stack** with a **backend-heavy** approach.
 - 🌱 Learning & exploring **Node.js, React, Tailwind CSS, Git, Java**, and more.
-- 📖 Interested in **distributed systems, object-oriented design, and system architecture**.
 - 🎯 Always striving for **clean code and scalable solutions**.
 
 ### ⚡ Tech Stack
