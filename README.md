@@ -1,4 +1,3 @@
-![GitHub Banner](https://source.unsplash.com/1600x400/?technology,black)
 
 <h1 align="center">Hi there, I'm Tesfatsion Gudeta 👋</h1>
 
@@ -37,10 +36,6 @@
   </a>
 </p>
 
-### 💡 Fun Quote
-> "The more I learn, the more I realize how much I don't know." – Albert Einstein
-
----
 <p align="center">
   <i>🔥 Keep coding, keep building! 🔥</i>
 </p>
