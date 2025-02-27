@@ -2,7 +2,7 @@
 <h1 align="center">Hi there, I'm Tesfatsion Gudeta 👋</h1>
 
 <p align="center">
-  <em>currently learning MERN stack</em>
+  <em>developer</em>
 </p>
 
 ---
