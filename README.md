@@ -26,10 +26,17 @@
 </p>
 
 ### 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tesfatsion-Gudeta&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tesfatsion-Gudeta&theme=tokyonight" alt="GitHub Streak" /> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Tesfatsion-Gudeta&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tesfatsion-Gudeta&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="180em"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tesfatsion-Gudeta&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</p>
+
+
 
 ### 🔗 Connect With Me
 <p align="center">
