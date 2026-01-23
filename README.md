@@ -1,15 +1,14 @@
 <h1 align="center">Hi there, I'm Tesfatsion Gudeta 👋</h1>
 
 <p align="center">
-  <em>developer</em>
+  <em>Full Stack Developer</em>
 </p>
 
 ---
 
 ### 🚀 About Me
-- 💻 Currently focusing on **MERN stack** with a **backend-heavy** approach.
-- 🌱 Learning & exploring **Node.js, React, Tailwind CSS, Express, MongoDB**, and more.
-- 🎯 Always striving for **clean code and scalable solutions**.
+- 💼 Actively looking for **new opportunities**.
+- 🛠️ Specialized in **Full Stack Development** with a **backend-heavy** focus.
 
 ### ⚡ Tech Stack
 <p align="left">
@@ -20,6 +19,8 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
   <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
